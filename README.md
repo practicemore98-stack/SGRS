@@ -1,3 +1,7 @@
+#Contributors
+-Rittik Raj (2500080048)
+-Divyang RameshBhai (2500080025)
+-CH Jaya Naga Sasi Kiran (2500080022)
 # Student Grievance Redressal System (SGRS)
 
 A simple **Python console-based project** for managing student grievances using a **CSV file** for data storage.
